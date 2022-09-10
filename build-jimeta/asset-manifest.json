@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.268798cd.css",
+    "main.js": "/static/js/main.a9f1c6a6.js",
+    "static/media/YN22.pdf": "/static/media/YN22.9ea0316f6c330b52b88d.pdf",
+    "static/media/YOLA NORTH 2022.pdf": "/static/media/YOLA NORTH 2022.6a23842f6f178fcfc098.pdf",
+    "static/media/adamawaMap.jpg": "/static/media/adamawaMap.09c835fe387dddc69b17.jpg",
+    "static/media/YNProposed22.pdf": "/static/media/YNProposed22.681b9bda232b58b3dec7.pdf",
+    "static/media/Scan21.jpg": "/static/media/Scan21.633ebe62514e6012a20d.jpg",
+    "static/media/Scan18.jpg": "/static/media/Scan18.c6970fa4c242539efd17.jpg",
+    "static/media/Scan22.jpg": "/static/media/Scan22.3e5df6e4d708790124ea.jpg",
+    "static/media/Scan19.jpg": "/static/media/Scan19.17ed127a17fb94db1bf6.jpg",
+    "static/media/Scan25.jpg": "/static/media/Scan25.2d19b2ac3caa9486646f.jpg",
+    "static/media/Scan20.jpg": "/static/media/Scan20.f6c2981f94d4a548ca50.jpg",
+    "static/media/Scan28.jpg": "/static/media/Scan28.8404281473a6eddf14ea.jpg",
+    "static/media/Scan26.jpg": "/static/media/Scan26.d37c123c20077bd89cfa.jpg",
+    "static/media/Scan16.jpg": "/static/media/Scan16.64175ece8e27d49fd149.jpg",
+    "static/media/Scan15.jpg": "/static/media/Scan15.fd3d094c227a4665ca3c.jpg",
+    "static/media/Scan27.jpg": "/static/media/Scan27.19855e10b036604587a6.jpg",
+    "static/media/Scan13.jpg": "/static/media/Scan13.7e8b33bfadda7e4c80f1.jpg",
+    "static/media/Scan29.jpg": "/static/media/Scan29.6789cc01fa538ebe3075.jpg",
+    "static/media/Scan17.jpg": "/static/media/Scan17.0c50ceb0b36b2a2aae5c.jpg",
+    "static/media/Scan23.jpg": "/static/media/Scan23.77c7c43b35d412c002be.jpg",
+    "static/media/Scan24.jpg": "/static/media/Scan24.9d6d37215c0d02aff1b7.jpg",
+    "static/media/Scan30.jpg": "/static/media/Scan30.f2dfc986c331e3844f1d.jpg",
+    "static/media/Scan14.jpg": "/static/media/Scan14.32e55ef7e2a873f6f7eb.jpg",
+    "static/media/YN21WL.pdf": "/static/media/YN21WL.8a62e24621bcdd1a241a.pdf",
+    "static/media/IMG-20220830-WA0004.jpg": "/static/media/IMG-20220830-WA0004.0010af74dbf7d188c69d.jpg",
+    "static/media/IMG-20220830-WA0002.jpg": "/static/media/IMG-20220830-WA0002.30d6cd276a5da605e28d.jpg",
+    "static/media/IMG-20220830-WA0010.jpg": "/static/media/IMG-20220830-WA0010.434aa76cd20c562d4092.jpg",
+    "static/media/IMG-20220830-WA0003.jpg": "/static/media/IMG-20220830-WA0003.2d76ab229311e33e107f.jpg",
+    "static/media/Table Content.pdf": "/static/media/Table Content.82055d36f998aaf1c544.pdf",
+    "static/media/undraw_questions_re_1fy7.svg": "/static/media/undraw_questions_re_1fy7.4047f16cb75b2698a953eaf1d37f026c.svg",
+    "index.html": "/index.html",
+    "main.268798cd.css.map": "/static/css/main.268798cd.css.map",
+    "main.a9f1c6a6.js.map": "/static/js/main.a9f1c6a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.268798cd.css",
+    "static/js/main.a9f1c6a6.js"
+  ]
+}

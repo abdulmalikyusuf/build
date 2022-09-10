@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.268798cd.css",
+    "main.js": "/static/js/main.055213f4.js",
+    "static/media/adamawaMap.jpg": "/static/media/adamawaMap.09c835fe387dddc69b17.jpg",
+    "static/media/Scan42.jpg": "/static/media/Scan42.2bb4bab883baa53235b0.jpg",
+    "static/media/Scan43.jpg": "/static/media/Scan43.17a943d661e44ec0567a.jpg",
+    "static/media/Scan41.jpg": "/static/media/Scan41.cbbd719360d92b9bc885.jpg",
+    "static/media/Scan34.jpg": "/static/media/Scan34.5764df3f2a93611a9baa.jpg",
+    "static/media/Scan50.jpg": "/static/media/Scan50.2f6d9eca5e89ea18dfb0.jpg",
+    "static/media/Scan32.jpg": "/static/media/Scan32.f6bee4f9caef96692b5b.jpg",
+    "static/media/Scan45.jpg": "/static/media/Scan45.6d9fd61f50e0ff5d63c1.jpg",
+    "static/media/Scan44.jpg": "/static/media/Scan44.f9f913cbc061df8b44da.jpg",
+    "static/media/Scan49.jpg": "/static/media/Scan49.78307b9acacca5253fb2.jpg",
+    "static/media/Scan47.jpg": "/static/media/Scan47.9b82fdb8bdd19b229e3e.jpg",
+    "static/media/Scan46.jpg": "/static/media/Scan46.1e1f2350d856e16eb6e5.jpg",
+    "static/media/Scan33.jpg": "/static/media/Scan33.153b10d261480ba7cf7d.jpg",
+    "static/media/Scan40.jpg": "/static/media/Scan40.576c1d8acaf00a47dae3.jpg",
+    "static/media/Scan35.jpg": "/static/media/Scan35.ac5027304fb8cc539946.jpg",
+    "static/media/Scan37.jpg": "/static/media/Scan37.0dfba6a58f3702df9b97.jpg",
+    "static/media/Scan38.jpg": "/static/media/Scan38.3d004b97baff87b21883.jpg",
+    "static/media/Scan36.jpg": "/static/media/Scan36.b5c71e1c775ac93b035e.jpg",
+    "static/media/Scan31.jpg": "/static/media/Scan31.6acdf3ce75551747cbcf.jpg",
+    "static/media/IMG-20220830-WA0004.jpg": "/static/media/IMG-20220830-WA0004.0010af74dbf7d188c69d.jpg",
+    "static/media/G21.pdf": "/static/media/G21.512e43b96395488cb0e9.pdf",
+    "static/media/IMG-20220830-WA0002.jpg": "/static/media/IMG-20220830-WA0002.30d6cd276a5da605e28d.jpg",
+    "static/media/IMG-20220830-WA0010.jpg": "/static/media/IMG-20220830-WA0010.434aa76cd20c562d4092.jpg",
+    "static/media/IMG-20220830-WA0003.jpg": "/static/media/IMG-20220830-WA0003.2d76ab229311e33e107f.jpg",
+    "static/media/undraw_questions_re_1fy7.svg": "/static/media/undraw_questions_re_1fy7.4047f16cb75b2698a953eaf1d37f026c.svg",
+    "index.html": "/index.html",
+    "main.268798cd.css.map": "/static/css/main.268798cd.css.map",
+    "main.055213f4.js.map": "/static/js/main.055213f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.268798cd.css",
+    "static/js/main.055213f4.js"
+  ]
+}

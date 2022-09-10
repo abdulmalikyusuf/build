@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.268798cd.css",
+    "main.js": "/static/js/main.44f239b0.js",
+    "static/media/adamawaMap.jpg": "/static/media/adamawaMap.09c835fe387dddc69b17.jpg",
+    "static/media/Scan8.jpg": "/static/media/Scan8.51afb14f63211a1f4570.jpg",
+    "static/media/Scan9.jpg": "/static/media/Scan9.dae5515f9efff027b879.jpg",
+    "static/media/Scan1.jpg": "/static/media/Scan1.0598ec20fccbcbb97f20.jpg",
+    "static/media/Scan5.jpg": "/static/media/Scan5.2462ce854394210e3308.jpg",
+    "static/media/Scan7.jpg": "/static/media/Scan7.5872e77e344996ab74b0.jpg",
+    "static/media/Scan2.jpg": "/static/media/Scan2.115d1898814baa72ec73.jpg",
+    "static/media/Scan12.jpg": "/static/media/Scan12.d68110461d800523d346.jpg",
+    "static/media/Scan3.jpg": "/static/media/Scan3.5d3cafc5ad3d56416c64.jpg",
+    "static/media/Scan6.jpg": "/static/media/Scan6.13b66ab540b11e09920d.jpg",
+    "static/media/Scan10.jpg": "/static/media/Scan10.3bb5ccec618500c5e69b.jpg",
+    "static/media/Scan11.jpg": "/static/media/Scan11.831a2b658059e87e4dc7.jpg",
+    "static/media/Scan4.jpg": "/static/media/Scan4.9348c37db9647aebcd6a.jpg",
+    "static/media/IMG-20220830-WA0004.jpg": "/static/media/IMG-20220830-WA0004.0010af74dbf7d188c69d.jpg",
+    "static/media/G21.pdf": "/static/media/G21.512e43b96395488cb0e9.pdf",
+    "static/media/IMG-20220830-WA0002.jpg": "/static/media/IMG-20220830-WA0002.30d6cd276a5da605e28d.jpg",
+    "static/media/IMG-20220830-WA0010.jpg": "/static/media/IMG-20220830-WA0010.434aa76cd20c562d4092.jpg",
+    "static/media/IMG-20220830-WA0003.jpg": "/static/media/IMG-20220830-WA0003.2d76ab229311e33e107f.jpg",
+    "static/media/undraw_questions_re_1fy7.svg": "/static/media/undraw_questions_re_1fy7.4047f16cb75b2698a953eaf1d37f026c.svg",
+    "index.html": "/index.html",
+    "main.268798cd.css.map": "/static/css/main.268798cd.css.map",
+    "main.44f239b0.js.map": "/static/js/main.44f239b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.268798cd.css",
+    "static/js/main.44f239b0.js"
+  ]
+}
